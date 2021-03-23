@@ -1,5 +1,3 @@
-import getpass
-
 class Usuari(object):
     def __init__(self,nick,email,password):
         self.nick=nick
